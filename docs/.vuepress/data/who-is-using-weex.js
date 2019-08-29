@@ -297,5 +297,13 @@ export default [
     iOS:
       'https://itunes.apple.com/cn/app/%E4%BF%A1%E5%A5%BD%E6%9C%89%E7%94%B0/id1439791996?mt=8',
     android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.tonysfarm.wx'
+  },
+  {
+    name_CN: 'WaWaYaYa爱读家',
+    name_EN: 'WaWaYaYa爱读家',
+    icon: 'http://d.wawayaya.com/src/aidujia.png',
+    iOS:
+      'https://apps.apple.com/cn/app/wawayaya-joyreader-hd/id961516968?l=zh&ls=1',
+    android: 'https://a.app.qq.com/o/simple.jsp?pkgname=wawayaya.kids_iread'
   }
 ];
